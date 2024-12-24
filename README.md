@@ -175,11 +175,11 @@ If you use this work in your research, please cite it as follows:
 }
 ```
 
-Contact
+## Contact
 
 For any questions or suggestions, please contact:
-	•	Shahaf Levinson - shahafl@mail.tau.ac.il
-	•	Ram Elgov - ramelgov@mail.tau.ac.il
-	•	Yonatan Benizri - benizrilevi@mail.tau.ac.il
-	•	Idan Schwartz - idan.schwartz@biu.ac.il
 
+- **Shahaf Levinson** - [shahafl@mail.tau.ac.il](mailto:shahafl@mail.tau.ac.il)
+- **Ram Elgov** - [ramelgov@mail.tau.ac.il](mailto:ramelgov@mail.tau.ac.il)
+- **Yonatan Benizri** - [benizrilevi@mail.tau.ac.il](mailto:benizrilevi@mail.tau.ac.il)
+- **Idan Schwartz** - [idan.schwartz@biu.ac.il](mailto:idan.schwartz@biu.ac.il)
