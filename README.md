@@ -69,6 +69,7 @@ raw_videos_characters/
 │   ├── frame002.jpg
 │   └── ...
 └── ...
+```
 
 ### Details
 - **raw_videos_characters/**: Root directory containing all raw videos.
