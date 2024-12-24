@@ -1,0 +1,101 @@
+video_name,question_id,question,answers,correct_answer
+couple.mp4,1,Who drops paper on the floor?,a. 2 b. 1,b
+couple.mp4,2,What color 1 locker?,a. green b. gray c. red,c
+couple.mp4,3,What 2 do at the end of the video?,a. Dance b. Propose c. Climb,b
+couple.mp4,4,What is the relationship between the characters?,a. Couple b. Brothers c. Father and daughter,a
+couple.mp4,5,Who speaks on the phone?,a. 1 b. 2,a
+award_winning_funny_commercial.mp4,6,Who is receiving acupuncture treatment in the video?,a. 1 b. 2,a
+award_winning_funny_commercial.mp4,7,Who wears glasses?,a. 2 b. 1,a
+award_winning_funny_commercial.mp4,8,Who is shirtless?,a. 1 b. 2,a
+award_winning_funny_commercial.mp4,9,What is the color of 2's shirt?,a. Black b. Yellow,b
+domestic_violence_awareness.mp4,10,Who is drinking beer?,a. 2 b. 1,a
+domestic_violence_awareness.mp4,11,Who is crying?,a. 2 b. 1,b
+domestic_violence_awareness.mp4,12,Who is portrayed as the harasser and who is identified as the victim?,a. 2 is the harasser and 1 is the victim b. 2 is the harasser and 2 is the victim,a
+domestic_violence_awareness.mp4,13,Who violently cut the credit card with scissors?,a. 2 b. 1,a
+doritos_time_machine.mp4,14,Who is holding a megaphone?,a. 1 b. 2,b
+doritos_time_machine.mp4,15,Who is the child in the video?,a. 1 b. 2,b
+doritos_time_machine.mp4,16,Who stood inside the cardboard box?,a. 2 b. 1,b
+doritos_time_machine.mp4,17,Who was standing near the dog?,a. 2 b. 1,b
+drake_sprite_commercial.mp4,18,What does 1 do after drinking the Sprite?,a. He starts singing into the microphone b. He starts eating,a
+drake_sprite_commercial.mp4,19,Is 1 alone in the room?,"a. Yes, he is the only person in the recording studio b. No, there are two more people who look like sound engineers",b
+drake_sprite_commercial.mp4,20,Does 1 take off his headphones at the beginning of the video?,a. No b. Yes,b
+drake_sprite_commercial.mp4,21,Does 1 speak to the sound engineer in the studio?,a. Yes b. No,a
+duracell_the_teddy_bear.mp4,22,Who appears on the computer screen in a visual conference situation?,a. 1 b. 3,b
+duracell_the_teddy_bear.mp4,23,Who is sleeping in the bed beside a teddy bear?,a. 2 b. 3,a
+duracell_the_teddy_bear.mp4,24,Who is wearing a yellow shirt near the computer?,a. 1 b. 3,a
+duracell_the_teddy_bear.mp4,25,Who speaks to 3 through a computer?,a. Both 1 and 2 b. No one,a
+ed_heinz_ad.mp4,26,Who is pouring ketchup on the plate in the video?,a. 1 b. 2,a
+ed_heinz_ad.mp4,27,Who is acting as a waiter in the restaurant that serves the food?,a. 1 b. 2,b
+ed_heinz_ad.mp4,28,What is the facial reaction of 2 after 1 pours the ketchup onto the plate?,a. sad b. happy,a
+ed_heinz_ad.mp4,29,What is 2 wearing?,a. A formal waiter restaurant suit b. A T-shirt,a
+harry_potter_leviosa.mp4,30,Who successfully performed the spell to lift the feather?,a. 1 b. 2,b
+harry_potter_leviosa.mp4,31,Who is wearing a pair of glasses?,a. 1 b. person3,a
+harry_potter_leviosa.mp4,32,What happened to person4 after attempting the spell?,a. person4's face is covered in soot and dust due to a failed spell that caused an explosion. b. person4 lifted the feather.,a
+harry_potter_leviosa.mp4,33,The hair of 2 is:,a. short b. long,b
+johnnie_walker_dear_brother.mp4,34,Who offers a whiski bottle?,a. 2 b. 1,a
+johnnie_walker_dear_brother.mp4,35,Who has a beard?,a. 1 b. 2,a
+johnnie_walker_dear_brother.mp4,36,Who holds a sack?,a. 1 b. 2,a
+johnnie_walker_dear_brother.mp4,37,What 1 holds?,a. Bag of chips b. Sack c. Bottle,b
+wolf_of_wallstreet.mp4,38,Who is wearing a red tie?,a. 2 b. 1,a
+wolf_of_wallstreet.mp4,39,Who is wearing a watch?,a. 2 b. 1,b
+wolf_of_wallstreet.mp4,40,What color 1 suit?,a. Gray b. Black,a
+wolf_of_wallstreet.mp4,41,Who eats an olive?,a. 2 b. 1,b
+wolf_of_wallstreet.mp4,42,Who knocks on his chest?,a. 1 b. 2 c. both,c
+hitched.mp4,43,Who wears a red bandana?,a. 1 b. 2,b
+hitched.mp4,44,Who is driving the car most of the video?,a. 2 b. 1,a
+hitched.mp4,45,Who has a beard?,a. 1 b. 2,b
+hitched.mp4,46,Who is driving the car at the end of the video?,a. 1 b. 2,a
+tamir_and_ravid.mp4,47,Who smokes in the video?,a. 2 b. 1,b
+tamir_and_ravid.mp4,48,Who is driving the car?,a. 2 b. 1,a
+tamir_and_ravid.mp4,49,What 1 wears?,a. Plaid shirt b. T-shirt c. Suit,b
+tamir_and_ravid.mp4,50,What color 1 shirt?,a. Black b. Red c. Gray d. Blue,c
+tamir_and_ravid.mp4,51,Who speaks on the phone?,a. 2 b. 1,b
+jumper.mp4,52,Who is the woman?,a. 2 b. 1,b
+jumper.mp4,53,Where are 1 and 2?,a. Office b. Park c. Elevator,c
+jumper.mp4,54,What is 1 emotion?,a. Happy b. Sad c. Scared,c
+jumper.mp4,55,What is 2 job?,a. Doctor b. Cleaner c. Officer,b
+shauli.mp4,56,Who lays in the bed?,a. 3 b. 2 c. 1,c
+shauli.mp4,57,Who is wearing a colorful shirt?,a. 3 b. 2 c. 1,b
+shauli.mp4,58,Who is the doctor?,a. 3 b. 1 c. 2,a
+shauli.mp4,59,Who is sick?,a. 3 b. 1 c. 2,b
+shauli.mp4,60,What is person3's hair color?,a. Black b. Blond c. Ginger,c
+batman.mp4,61,Who is on the TV screen?,a. 1 b. 3 c. 2,c
+batman.mp4,62,Who is wearing makeup?,a. 2 b. 1 c. 3,b
+batman.mp4,63,What object 1 place on the table?,a. Cup b. Pencil c. Paper,b
+batman.mp4,64,What color 1 suit?,a. Black b. Gray c. Purple,c
+batman.mp4,65,What is 2 impression?,a. Happy b. Angry c. Scared,b
+sorry_1.mp4,66,Who wears white shirt?,a. 1 b. 2,a
+sorry_1.mp4,67,Who wears black shirt?,a. 2 b. 1,a
+sorry_1.mp4,68,Who is bald?,a. 1 b. 2,a
+sorry_1.mp4,69,Who has long hair?,a. 2 b. 1,a
+sorry_1.mp4,70,Who has purple nails?,a. 1 b. 2,b
+sorry_2.mp4,71,Who speaks in the video?,a. 1 b. 2,a
+sorry_2.mp4,72,Who is wearing blue shirt?,a. 2 b. 1,a
+sorry_2.mp4,73,Who is wearing earrings?,a. 1 b. 2,a
+sorry_2.mp4,74,Who is wearing long sleeve shirt?,a. 2 b. 1,b
+sorry_2.mp4,75,Who is the male?,a. 1 b. 2,b
+elderly_couple.mp4,76,Who wears green pants?,a. 1 b. 2,a
+elderly_couple.mp4,77,What 1 shirt color?,a. purple b. orange,a
+elderly_couple.mp4,78,Who is bold?,a. 2 b. 1,b
+elderly_couple.mp4,79,Who wears neckles?,a. 1 b. 2,b
+elderly_couple.mp4,80,Who is the female?,a. 2 b. 1,a
+band.mp4,81,Who is blond?,a. 1 b. 2 c. 3 d. 4 e. 5,b
+band.mp4,82,Who wears a hat?,a. 1 b. 2 c. 5 d. 4 e. 3,c
+band.mp4,83,Who wears glasses?,a. 2 b. 1 c. 3 d. 4 e. 5,b
+band.mp4,84,Who is the female?,a. 1 b. 2 c. 3 d. 4 e. 5,c
+band.mp4,85,Who is the black?,a. 1 b. 2 c. 3 d. 4 e. 5,e
+sound_heal.mp4,86,Who is bold?,a. 1 b. 2,a
+sound_heal.mp4,87,Who has long hair?,a. 2 b. 1,a
+sound_heal.mp4,88,Who wears white button up shirt?,a. 1 b. 2,a
+sound_heal.mp4,89,Who plays the instrument?,a. 1 b. 2,b
+sound_heal.mp4,90,Who wears a bracelet?,a. 2 b. 1,a
+street_interview.mp4,91,Who is wearing glasses?,a. 1 b. 2,b
+street_interview.mp4,92,Who is wearing stripe shirt?,a. 2 b. 1,b
+street_interview.mp4,93,Who is wears earrings?,a. 1 b. 2,b
+street_interview.mp4,94,Who have a beard?,a. 2 b. 1,a
+street_interview.mp4,95,Who wears blue and white shirt?,a. 1 b. 2,b
+shauli_interview.mp4,96,Who is wearing black?,a. 1 b. 2,a
+shauli_interview.mp4,97,Who is wearing pink?,a. 2 b. 1,a
+shauli_interview.mp4,98,Who is the female?,a. 1 b. 2,b
+shauli_interview.mp4,99,Who is the male?,a. 2 b. 1,b
+shauli_interview.mp4,100,Who have curly hair?,a. 1 b. 2,a
