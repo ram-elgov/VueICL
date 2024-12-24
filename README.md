@@ -61,12 +61,16 @@ Ensure that your data directory follows the structure below:
 ```plaintext
 raw_videos_characters/
 ├── video1/
-│   ├── frame001.jpg
-│   ├── frame002.jpg
+│   ├── 1.jpg
+│   ├── 2.jpg
+│   ├── video1.mp4
 │   └── ...
 ├── video2/
-│   ├── frame001.jpg
-│   ├── frame002.jpg
+│   ├── 1.jpg
+│   ├── 2.jpg
+│   ├── 3.jpg
+│   ├── 4.png
+│   ├── video2.mp4
 │   └── ...
 └── ...
 ```
