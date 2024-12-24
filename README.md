@@ -58,16 +58,17 @@ VueICL is a framework designed for **Entity-Aware Video Question Answering** lev
 
 Ensure that your data directory follows the structure below:
 
+```plaintext
 raw_videos_characters/
 ├── video1/
 │   ├── frame001.jpg
 │   ├── frame002.jpg
-│   └── …
+│   └── ...
 ├── video2/
 │   ├── frame001.jpg
 │   ├── frame002.jpg
-│   └── …
-└── …
+│   └── ...
+└── ...
 
 ### Details
 - **raw_videos_characters/**: Root directory containing all raw videos.
